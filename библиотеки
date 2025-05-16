@@ -1,0 +1,8 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install torch
+pip install transformers
+ip install scikit-learn
+pip install nltk
+pip install pandas matplotlib seaborn torch transformers scikit-learn nltk
